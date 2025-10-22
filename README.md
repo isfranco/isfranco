@@ -19,9 +19,6 @@
 
 ---
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BFDB&background=0A0A0A00&lines=Languages+and+Skills" alt="Typing SVG" />
-- Italian (native language)
-- English (C1)
-- Spanish (A2)
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" />&ensp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" />&nbsp;
@@ -56,10 +53,12 @@
 ---
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BFDB&background=0A0A0A00&lines=My+Works" alt="Typing SVG" /></a>
 <br>
-<img src="https://isfranco.github.io/Neurocosmo-L-Universo-Neurodiverso/logo.png" width="80" align="center" alt="Icona Neurocosmo" />https://isfranco.github.io/Neurocosmo-L-Universo-Neurodiverso<br>
-<img src="https://valeriamoscati.altervista.org/wp-content/uploads/2023/09/Nome_1-1024x202.png" width="80" align="center" alt="Icona Valeria Moscati" />https://valeriamoscati.altervista.org/
-<br>
-<img src="https://isfranco.github.io/Syberia/images/logo.png" width="80" align="center" alt="Icona Syberia"/>https://isfranco.github.io/Syberia/
+<img src="https://isfranco.github.io/Neurocosmo-L-Universo-Neurodiverso/logo.png" width="80" align="center" alt="Icona Neurocosmo" />&nbsp;&nbsp;https://isfranco.github.io/Neurocosmo-L-Universo-Neurodiverso<br><br>
+<img src="https://valeriamoscati.altervista.org/wp-content/uploads/2023/09/Nome_1-1024x202.png" width="80" align="center" alt="Icona Valeria Moscati" />&nbsp;&nbsp;https://valeriamoscati.altervista.org/
+<br><br>
+<img src="https://isfranco.github.io/Syberia/images/logo.png" width="80" align="center" alt="Icona Syberia"/>&nbsp;&nbsp;https://isfranco.github.io/Syberia/
+<br><br>
+<img src="https://outsiders.altervista.org/imgs/logo.png" width="80" align="center" alt="Icona Outsiders"/>&nbsp;&nbsp;https://outsiders.altervista.org/
 
 
 ![Snake animation](https://profile-readme-generator.com/assets/snake.svg)
