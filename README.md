@@ -54,8 +54,12 @@
 
 
 ---
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BFDB&background=0A0A0A00&lines=My+Works" alt="Typing SVG" />
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BFDB&background=0A0A0A00&lines=My+Works" alt="Typing SVG" /></a>
+<br>
+<img src="https://isfranco.github.io/Neurocosmo-L-Universo-Neurodiverso/logo.png" width="80" align="center" alt="Icona Neurocosmo" />https://isfranco.github.io/Neurocosmo-L-Universo-Neurodiverso<br>
+<img src="https://valeriamoscati.altervista.org/wp-content/uploads/2023/09/Nome_1-1024x202.png" width="80" align="center" alt="Icona Valeria Moscati" />https://valeriamoscati.altervista.org/
+<br>
+<img src="https://isfranco.github.io/Syberia/images/logo.png" width="80" align="center" alt="Icona Syberia"/>https://isfranco.github.io/Syberia/
 
 
 ![Snake animation](https://profile-readme-generator.com/assets/snake.svg)
